@@ -38,19 +38,26 @@ npm install
 # 2. Build the project
 ionic build
 
-# 3. Sync to Android
+# 3. Add Android platform
+ionic capacitor add android
+
+# 4. Sync to Android
 ionic capacitor sync android
 
-# 4. Open in Android Studio
+# 5. Open in Android Studio
 cd android
 studio .
 ```
 
 Then in Android Studio:
 - Wait for Gradle sync to complete
-- Select an Android emulator from the dropdown menu
-- Run the app on the emulator
+- Select an Android emulator from the dropdown menu (Android 14 or 15 recommended)
+- Click the green play button (▶️) to run the app
 
+**Alternative:** Run directly from command line:
+```bash
+ionic capacitor run android
+```
 ## Testing
 
 The app has been tested on:
