@@ -1,0 +1,20 @@
+{
+  "name": "Groceries",
+  "items": [
+    {
+      "id": "1",
+      "task": "Apples",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "task": "Bread",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "task": "Milk",
+      "completed": false
+    }
+  ]
+}

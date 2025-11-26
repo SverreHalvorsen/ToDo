@@ -1,0 +1,25 @@
+{
+  "name": "To-Do",
+  "items": [
+    {
+      "id": "1",
+      "task": "Finish project report",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "task": "Book flight tickets",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "task": "Deliver project on Blackboard",
+      "completed": false
+    },
+    {
+      "id": "4",
+      "task": "Deliver project on Inspera",
+      "completed": true
+    }
+  ]
+}

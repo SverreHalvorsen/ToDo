@@ -1,0 +1,12 @@
+{
+  "lists": [
+    {
+      "name": "Groceries",
+      "fileName": "groceries.json"
+    },
+    {
+      "name": "To-Do",
+      "fileName": "to_do.json"
+    }
+  ]
+}
